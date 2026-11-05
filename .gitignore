@@ -1,0 +1,7 @@
+.env
+.streamlit/secrets.toml
+venv/
+__pycache__/
+vector_store/saved_index/*
+!vector_store/saved_index/.gitkeep
+.DS_Store

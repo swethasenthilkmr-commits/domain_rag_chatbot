@@ -1,0 +1,3 @@
+[server]
+# maximum upload size in MB per file
+maxUploadSize = 10

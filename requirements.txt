@@ -1,0 +1,10 @@
+streamlit>=1.40
+pypdf>=5.0
+langchain-core>=1.0
+langchain-text-splitters>=1.0
+langchain-huggingface>=1.0
+sentence-transformers>=3.0
+faiss-cpu>=1.9
+numpy>=1.26
+langchain-google-genai>=4.0
+python-dotenv>=1.0
